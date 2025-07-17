@@ -22,10 +22,11 @@ main()
     //     j++;
     // }
 
-    /*int i, j;
+    int i, j;
     for (i = 1, j = 1; i <= 5, j <= 3;)
     {
         cout << i << j << endl;
         i++;
         j++;
-    }*/
+    }
+}
