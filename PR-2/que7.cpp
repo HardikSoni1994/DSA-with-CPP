@@ -14,5 +14,4 @@ main()
         first = first / 10;
 
     cout << "The Sum of the first and last digit is :" << (first + last);
-    return 0;
 }
