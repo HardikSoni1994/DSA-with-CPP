@@ -20,5 +20,14 @@ main()
     // {
     //     cout <<"Your number is greater than 10.\n";
     // }
+    if ( 0 )
+    {
+        cout <<"Hello";
+    }
+    else
+    {
+        cout <<"world";
+    }
+    
     
 }
