@@ -13,11 +13,11 @@ main()
     {
         for(int s = 5; s > i; s--)
         {
-            cout << " ";
+            cout << "  ";
         }
         for(int j = 1; j <= i; j++)
         {
-            cout << j;
+            cout << j << " ";
         }
         cout << endl;
     }
