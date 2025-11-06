@@ -2,8 +2,8 @@
 using namespace std;
 
 // TNRN - (take nothing return nothing).
-
-void print();  // declaration
+// global rea
+void print();  // declaration in global area
 
 int main()
 {

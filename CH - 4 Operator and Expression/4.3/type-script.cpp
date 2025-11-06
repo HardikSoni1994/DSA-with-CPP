@@ -4,7 +4,7 @@ using namespace std;
 main()
 {
     // Int -> Char //implicit
-    /**/int a = 97;
+    int a = 97;
 
     char ch = a;
 

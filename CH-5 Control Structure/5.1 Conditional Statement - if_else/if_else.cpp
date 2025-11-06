@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 main()
@@ -24,4 +24,17 @@ main()
     {
         cout <<"You can not do vote..!";
     }*/
+
+    char ch;
+    cout << "Enter any character: ";
+    cin >> ch;
+    if (ch >= 65 && ch <= 90)
+    {
+        cout << " is a upperCase.";
+    }
+    else
+    {
+
+        cout << " is a lowerCase.";
+    }
 }

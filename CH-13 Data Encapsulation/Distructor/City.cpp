@@ -21,12 +21,12 @@ class City
 
     void getter()
      {
-            cout << "Cityname : " << this->cityName;
+            cout << "Cityname : " << this->cityName << endl;
         }
     // destructor
     ~City()
     {
-        cout << "HEllo";
+        cout << "Hello surat";
     }
     
 

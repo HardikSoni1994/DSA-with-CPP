@@ -3,13 +3,13 @@ using namespace std;
 
 main()
 {
-    // int a = 1; // Initialization
+    int a = 1; // Initialization
     
-    // while (a <= 100)
-    // {
-    //     cout <<" Hello Programming...! " << endl;
-    //     a += 1;
-    // }
+    while (a <= 10)
+    {
+        cout << a << endl;
+        a += 1;
+    }
     
 
     /*while(a <= 10) // Loop condition

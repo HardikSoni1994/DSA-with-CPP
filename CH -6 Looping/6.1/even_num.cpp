@@ -1,12 +1,20 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 main()
 {
-    int i = 0;
-    while (i <= 20)
+    int a = 1;
+    int n;
+    cout << "Enter any number : ";
+    cin >> n;
+
+    while (a <= n)
     {
-        cout << i <<"\t";
-        i += 2; 
+        if (a % 2 == 0)
+        {
+            cout << a << " ";
+        }
+        a++;
     }
+    
 }
