@@ -79,7 +79,7 @@ int main()
 
     merge_sort(arr, 0, n - 1);
 
-    cout << "sorted Array : ";0
+    cout << "sorted Array : ";
     for (int i = 0; i < arr.size(); i++)
     {
         cout << arr[i] << " ";
